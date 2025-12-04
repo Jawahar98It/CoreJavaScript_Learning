@@ -2,7 +2,7 @@ const prompt = require("prompt-sync")();
 console.log("Hello javascript")
 let name = "Fair";
 console.log(name);
-let firstName = "Sara"; 
+let firstName = "Delma"; 
 let lastName = "Baker";
 console.log(firstName+" "+lastName)
 const interestRate = 5.5
